@@ -1,6 +1,7 @@
 import math  # Se importa la libreria de operaciones matematicas
 import random  # Se importa la libreria de numeros aleatorios
 from funciones import multiple_op, verify_array_op  # Se importan las funciones
+# ERR 4 -5
 
 
 # Prueba unitaria de un caso de exito de la funcion multiple_op

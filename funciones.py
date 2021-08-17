@@ -1,5 +1,6 @@
 import math  # Se importa la libreria de operaciones matematicas
 ERROR_BAD_ARGUMENTS = 0xA0  # Se establece el codigo de error
+# ERR 3: EL còdigo de error debia ser único, ustedes lo repiten
 
 
 # Descripcion: funcion que realiza 3 operaciones distintas
